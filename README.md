@@ -8,6 +8,10 @@ This example is to show diffetent parts of the Git repo and various commands usi
 
 ## Purpose
 
+As states above the main purpose is to provide simple examples for Git training.
+
 ## Deployment
+
+
 
 ## How to contribute
