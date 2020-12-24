@@ -16,6 +16,8 @@ Some text here what up
 
 ## How to contribute
 
+Please fork this repo then pull request for review
+
 
 ### Copyright
 
