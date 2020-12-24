@@ -12,6 +12,6 @@ As states above the main purpose is to provide simple examples for Git training.
 
 ## Deployment
 
-
+Some text here what up
 
 ## How to contribute
