@@ -15,3 +15,8 @@ As states above the main purpose is to provide simple examples for Git training.
 Some text here what up
 
 ## How to contribute
+
+
+### Copyright
+
+Git.Enne 2020
