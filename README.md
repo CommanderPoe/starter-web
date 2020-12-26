@@ -23,4 +23,4 @@ Please fork this repo then pull request for review
 
 ### Copyright
 
-Git.Enne 2020
+Git.Enne 2020. All right reserved.
