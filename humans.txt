@@ -8,6 +8,7 @@
 # THANKS
 
     All the people that's contributed.
+    Some text added on section 10
 
 # TECHNOLOGY COLOPHON
 
